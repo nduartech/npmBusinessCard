@@ -5,12 +5,6 @@
 $ npm install nathan
 ```
 
-and
-
-```js
-console.log(require('nathan'));
-```
-
 To get my contact information.
 
 ## Credits
