@@ -1,5 +1,5 @@
 
-# nealrs
+# nathanld
 
 ```bash
 $ npm install nathan
