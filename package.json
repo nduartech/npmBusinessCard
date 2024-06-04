@@ -1,10 +1,9 @@
 {
   "name": "nathan",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Nathan Duarte, on npm!",
-  "main": "index.js",
-  "scripts": {
-    "postinstall": "cat info.json"
+  "bin": {
+    "nathan": "index.js"
   },
   "keywords": [
     "person",
