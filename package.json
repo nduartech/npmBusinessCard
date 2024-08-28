@@ -1,6 +1,6 @@
 {
   "name": "nathan",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Nathan Duarte, on npm!",
   "bin": {
     "nathan": "index.js"
